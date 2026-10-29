@@ -1,0 +1,4 @@
+sensor_id,registros,temperatura_promedio,humedad_promedio
+sensor_01,64,28.11,60.59
+sensor_03,66,29.72,57.96
+sensor_02,74,28.77,58.76
